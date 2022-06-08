@@ -1,0 +1,95 @@
+Installed Extensions
+Always Show Workspace Thumbnails by AlynxZhou
+Always show workspace thumbnails even there is only one workspace.
+
+Application Volume Mixer by mymindstorm
+Control volume output per-application
+
+Applications Menu by fmuellner
+Add a category-based menu for applications.
+
+Arrange Windows by sun_wang
+Arrange windows on the monitors
+
+Background Logo
+System extension
+Overlay a tasteful logo on the background to enhance the user experience
+
+BackSlide by p91paul
+Automatic background-image (wallpaper) slideshow for Gnome Shell
+
+Bluetooth Quick Connect by bjarosze
+Allow to connect to paired devices from gnome control panel.
+
+Caffeine by eon
+Disable the screensaver and auto suspend
+
+Clipboard Indicator by Tudmotu
+Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and caches clipboard history.
+
+Dash to Dock for COSMIC by halfmexican2
+A Dash to Dock fork for the COSMIC/GNOME Shell, fixes conflict with Cosmic Workspace. It prevents Cosmic Workspaces from breaking after suspend.
+
+Extension List by grroot
+Simple GNOME Shell extension manager in the top panel
+
+GSConnect by dlandau
+System extension
+GSConnect is a complete implementation of KDE Connect especially for GNOME Shell with Nautilus, Chrome and Firefox integration. It does not rely on the KDE Connect desktop application and will not work with it installed.
+
+gTile by scherepanov
+Tile windows on a grid.
+
+Hue Lights by chlumskyvaclav
+This extension controls Philips Hue compatible lights using Philips Hue Bridge on your local network, it also allows controlling Philips Hue Sync Box. If you are experiencing an error on the upgrade, please log out and log in again.
+
+Just Perfection by JustPerfection
+Tweak Tool to Customize GNOME Shell, Change the Behavior and Disable UI Elements
+
+Launch new instance by fmuellner
+Always launch a new instance when clicking in the dash or the application view.
+
+Mullvad Indicator by Pobega
+Mullvad connection status indicator
+
+Native Window Placement by fmuellner
+Arrange windows in overview in a more compact way.
+
+OpenWeather by skrewball
+Display weather information for any location on Earth in the GNOME Shell
+
+Places Status Indicator by fmuellner
+System extension
+Add a menu for quickly navigating places in the system.
+
+Removable Drive Menu by fmuellner
+A status menu for accessing and unmounting removable devices.
+
+Screenshot Window Sizer by fmuellner
+Resize windows for GNOME Software screenshots
+
+Sound Input & Output Device Chooser by kgshank
+Shows a list of sound output and input devices (similar to gnome sound settings) in the status menu below the volume slider. Various active ports like HDMI , Speakers etc. of the same device are also displayed for selection. V20+ needs python as dependency. If you want to continue with the old method without Python, use options to switch off New Port identification. But it works with only English
+
+Tiling Assistant by Leleat
+Expand GNOME's 2 column tiling and add a Windows-snap-assist-inspired popup...
+
+Tray Icons: Reloaded by MartinPL
+Tray Icons Reloaded is a GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
+
+User Themes by fmuellner
+System extension
+Load shell themes from user directory.
+
+Vertical overview by Ralthuis
+Bringing back vertically stacked workspaces
+
+WG Indicator by sync1211
+A status indicator for Wireguard connections.
+
+Window List by fmuellner
+System extension
+Display a window list at the bottom of the screen.
+
+Workspace Indicator by fmuellner
+Put an indicator on the panel signaling in which workspace you are, and give you the possibility of switching to another one.
